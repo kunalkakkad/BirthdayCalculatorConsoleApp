@@ -1,0 +1,5 @@
+c:\users\developer-terminal\documents\visual studio 2017\Projects\BirthDateCalculator\BirthDateCalculator\bin\Debug\BirthDateCalculator.exe.config
+c:\users\developer-terminal\documents\visual studio 2017\Projects\BirthDateCalculator\BirthDateCalculator\bin\Debug\BirthDateCalculator.exe
+c:\users\developer-terminal\documents\visual studio 2017\Projects\BirthDateCalculator\BirthDateCalculator\bin\Debug\BirthDateCalculator.pdb
+c:\users\developer-terminal\documents\visual studio 2017\Projects\BirthDateCalculator\BirthDateCalculator\obj\Debug\BirthDateCalculator.exe
+c:\users\developer-terminal\documents\visual studio 2017\Projects\BirthDateCalculator\BirthDateCalculator\obj\Debug\BirthDateCalculator.pdb
